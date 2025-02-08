@@ -1,4 +1,4 @@
-# electrical-store
+# Electrical store
 
 This project build with vite.js
 
