@@ -2,4 +2,4 @@
 
 This project build with vite.js
 
-### Description website
+Link on website: https://vladmcoder.github.io/electrical-store/ 
