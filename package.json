@@ -2,7 +2,7 @@
   "name": "electrical-store-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://VladMCoder.github.io/website-page/",
+  "homepage": "https://VladMCoder.github.io/electrical-store/",
   "type": "module",
   "scripts": {
     "dev": "vite",
